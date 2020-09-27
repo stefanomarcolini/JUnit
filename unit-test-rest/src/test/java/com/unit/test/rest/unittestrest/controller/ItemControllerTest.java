@@ -19,7 +19,7 @@ import org.springframework.test.web.servlet.MvcResult;
 import org.springframework.test.web.servlet.RequestBuilder;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 
-import com.unit.test.rest.unittestrest.annotaions.UnitTest;
+import com.unit.test.rest.unittestrest.annotations.UnitTest;
 import com.unit.test.rest.unittestrest.business.ItemBusinessService;
 import com.unit.test.rest.unittestrest.model.Item;
 
