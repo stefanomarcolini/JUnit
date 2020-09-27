@@ -4,7 +4,7 @@ import org.json.JSONException;
 import org.junit.jupiter.api.Test;
 import org.skyscreamer.jsonassert.JSONAssert;
 
-import com.unit.test.rest.unittestrest.annotaions.UnitTest;
+import com.unit.test.rest.unittestrest.annotations.UnitTest;
 
 @UnitTest
 public class JsonAssertTest {
