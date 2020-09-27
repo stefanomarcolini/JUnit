@@ -1,4 +1,4 @@
-package com.unit.test.rest.unittestrest.annotaions;
+package com.unit.test.rest.unittestrest.annotations;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
