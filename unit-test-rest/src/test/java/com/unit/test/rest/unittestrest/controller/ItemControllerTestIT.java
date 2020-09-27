@@ -11,7 +11,7 @@ import org.springframework.boot.test.web.client.TestRestTemplate;
 import org.springframework.boot.web.server.LocalServerPort;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.unit.test.rest.unittestrest.annotaions.IntegrationTest;
+import com.unit.test.rest.unittestrest.annotations.IntegrationTest;
 
 @IntegrationTest
 @SpringBootTest(webEnvironment = WebEnvironment.RANDOM_PORT)
