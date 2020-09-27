@@ -15,7 +15,7 @@ import org.mockito.Mock;
 import org.mockito.junit.MockitoJUnitRunner;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import com.unit.test.rest.unittestrest.annotaions.UnitTest;
+import com.unit.test.rest.unittestrest.annotations.UnitTest;
 import com.unit.test.rest.unittestrest.data.ItemRepository;
 import com.unit.test.rest.unittestrest.model.Item;
 
